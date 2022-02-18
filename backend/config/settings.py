@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'cloudinary',
     'django_filters',
     'apps.users',
+    'apps.order_items'
 ]
 
 MIDDLEWARE = [
